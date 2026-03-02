@@ -12,4 +12,4 @@ Try Hack Me (THM) consists of tons of rooms, which are virtual enviornments dedi
 
 | Room Name | Topics | Difficulty | Description |
 | :--- | :--- | :--- | :--- |
-| [Test](https://link-to-your-writeup.com) | Test, CTF, Informational | Info | A test CTF write up |
+| [Test](test.md) | Test, CTF, Informational | Info | A test CTF write up |

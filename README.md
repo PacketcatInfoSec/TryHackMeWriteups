@@ -2,16 +2,14 @@
 
 [TryHackMe](https://tryhackme.com) is an online platform for learning and teaching cybersecurity, which is beginner-friendly and versatile in different topics.
 
-It consists of tons of rooms, which are virtual classrooms dedicated to particular cybersecurity topics, with different difficulties.
+Try Hack Me (THM) consists of tons of rooms, which are virtual enviornments dedicated to particular cybersecurity topics, with different difficulties.
 
 ## Author
 
-* Your Name Here
+* PacketcatInfoSec
 
 ## TryHackMe Room(s) solved
 
 | Room Name | Topics | Difficulty | Description |
 | :--- | :--- | :--- | :--- |
-| [c4ptur3th3fl4g](https://link-to-your-writeup.com) | ctf, security, forensics, crypto | Easy | A beginner-level CTF challenge |
-| [OhSINT](https://link-to-your-writeup.com) | OSINT, Internet, Dorks | Easy | Are you able to use open source intelligence to solve this challenge? |
-| [Crack the hash](https://link-to-your-writeup.com) | hash, hashcat, cracking | Easy | Cracking hashes challenges |
+| [Test](https://link-to-your-writeup.com) | Test, CTF, Informational | Info | A test CTF write up |

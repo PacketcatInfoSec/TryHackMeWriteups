@@ -13,4 +13,4 @@ Try Hack Me (THM) consists of tons of rooms, which are virtual enviornments dedi
 | Room Name | Topics | Difficulty | Description |
 | :--- | :--- | :--- | :--- |
 | [Test](test.md) | Test, CTF, Informational | Info | A test CTF write up |
-| [Bounty Hacker(Bounty-Hacker.md) ] CTF, Brute Force | Easy | A Cowboy Bebop themed CTF |
+| [Bounty Hacker](Bounty-Hacker.md) | CTF, Brute Force | Easy | A Cowboy Bebop themed CTF |

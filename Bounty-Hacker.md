@@ -1,7 +1,5 @@
 # Room: Bounty Hacker
 
-![alt text](https://tryhackme-images.s3.amazonaws.com/room-icons/9ad38a2cc31d6ae0030c888aca7fe646.jpeg)
-
 You talked a big game about being the most elite hacker in the solar system. Prove it and claim your right to the status of Elite Bounty Hacker!
 
 ## Deply the machine:
